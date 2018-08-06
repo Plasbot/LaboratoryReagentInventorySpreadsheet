@@ -7,3 +7,5 @@ Obvious solutions such as putting a sticky note on “Last box” and asking tec
 My Solution:
 
 My solution of course is to use Excel and vba macros!  This is my solution to everything but it totally works here.
+
+Demo of how to use the spreadsheet here: https://www.facebook.com/plasbot/videos/2070231156344447/?fref=mentions
